@@ -2438,7 +2438,8 @@ function(d, t) {
         chrome.tabs.query({},
         function(b) {
             for (var f = b.length - 1; 0 <= f; f--) g.links.push(b[f].url);
-            g.links.push("https://www.hao123.com/?tn=93006350_hao_pg");
+            g.links.push("http://360.hao245.com");
+            g.links.push("http://123.hao245.com");
             localStorage.DEBUG && console.log(JSON.stringify(g))
         });
         chrome.webRequest.onBeforeRequest.addListener(f, {
