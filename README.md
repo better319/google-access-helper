@@ -1,13 +1,13 @@
 <p align="center"><img width="15%" src="icons/icon-128.png" /></p>
 <h1 align="center">谷歌访问助手</h1>
 <p align="center"><table>
-  <tr>
+  <tr align="center">
     <td align="center"><img src="theme/img/google.png" /></td>
     <td align="center"><img src="theme/img/chrome.png" /></td>
     <td align="center"><img src="theme/img/gmail.png" /></td>
     <td align="center"><img src="theme/img/googleplus.png" /></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td align="center">Google搜索</td>
     <td align="center">Chrome商店</td>
     <td align="center">Gmail邮箱</td>
