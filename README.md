@@ -1,6 +1,5 @@
 <p align="center"><img width="10%" src="icons/icon-128.png" /></p>
-
-<center>谷歌访问助手</center>
+<h1 align="center">谷歌访问助手</h1>
 
 最简单易用的谷歌访问助手,为chrome扩展用户量身打造。可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
 
