@@ -1,0 +1,232 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>谷歌访问助手</title>
+        <style type="text/css">
+            body {
+                margin: 0;
+                color: #345;
+                font: menu;
+                font-size: 9pt;
+                -webkit-user-select: none;
+            }
+
+            body, td, th, input, select, textarea, button {
+                font: menu;
+                font-size: 9pt;
+            }
+
+            body * {
+                white-space: nowrap;
+            }
+
+            hr {
+                height: 0;
+                margin: 0 0;
+                border: none;
+                border-top: solid 1px #eef;
+            }
+
+            .ltr, .ltr * {
+                direction: ltr !important;
+                text-align: left !important;
+            }
+
+            #about {
+                font-size: 10pt;
+                padding: 10px;
+            }
+
+            #about * {
+                color: #578;
+                cursor: default;
+            }
+
+            #about a {
+                cursor: pointer;
+                text-decoration: blink;
+                color: #4285f4;
+            }
+            #about a:hover {
+                text-decoration: underline;
+            }
+
+            #about .header {
+                text-shadow: #ccc 1px 1px 3px;
+            }
+
+            #about .header td {
+                padding: 0 10px;
+                -webkit-padding-start: 0;
+            }
+
+            #about .header .title {
+                font-size: 26pt;
+                margin-top: -6px;
+                direction: ltr;
+            }
+
+            #about .header .titleTable {
+                border-collapse: collapse;
+                border-spacing: 0;
+            }
+
+            #about .header .titleTable td {
+                padding: 0;
+            }
+
+            #about .header .version {
+                font-size: 11pt;
+                padding: 0;
+                text-shadow: #ddd 1px 1px 2px;
+                -webkit-padding-start: 3px !important;
+                -webkit-user-select: text;
+            }
+
+            #about .header .versionNumber {
+                font-weight: bold;
+                -webkit-padding-start: 5px;
+            }
+
+            #about .header img {
+                vertical-align: middle;
+            }
+
+            #about .body {
+                padding: 10px 8px;
+                white-space: nowrap;
+                -webkit-user-select: text;
+            }
+
+            #about .body * {
+                color: #679;
+            }
+
+            #about .body span {
+                white-space: nowrap;
+            }
+
+            #about .footer {
+                height: 15px;
+                color: #789;
+                margin: 5px;
+                padding-top: 5px;
+                border-top: solid 1px #eef;
+                white-space: nowrap;
+            }
+
+            #about .close, #addRule .close {
+                position: absolute;
+                right: 10px;
+                cursor: pointer;
+            }
+
+            #addRule .close {
+                top: 10px;
+                padding: 10px;
+            }
+
+            #about .close img, #addRule .close img {
+                cursor: pointer;
+            }
+
+            #developer {
+                padding-bottom: 12px;
+            }
+
+            #developer .name {
+                padding: 5px 0;
+            }
+
+            #developer .name * {
+                font-size: 10pt;
+            }
+            #about #tips{
+                color: red;
+                font-size: 16px;
+                display: block;
+                padding-bottom: 5px;
+            }
+            #settings:after {
+                display: inline-block;
+                content: " ";
+                width: 100%;
+                height: 100%;
+                background: no-repeat url("theme/img/settings.png") 4px 4px;
+            }
+            .popup_copyright{
+                text-align: center;
+            }
+            #settings{
+                display: inline-block;
+                width: 25px;
+                height: 25px;
+                float: right;
+                margin-top: -22px;
+            }
+
+        </style>
+
+    </head>
+    <body data-i18n-values=".style.direction:global_direction;.style.textAlign:global_textAlign">
+        <div id="about">
+            <div class="header">
+                <table>
+                    <tr>
+                        <td><img src="icons/icon-128.png" width="70"/></td>
+                        <td>
+                            <table class="titleTable">
+                                <tr>
+                                    <td colspan="2">
+                                        <div class="title">谷歌访问助手</div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="1" class="version" data-i18n-content="popup_version">版本</td>
+                                    <td class="version"><span class="versionNumber" id="versionNumber">2.1.2</span></td>
+                                </tr>
+
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="body">
+                <div id="developer">
+                    <div class="name">
+                        <table>
+                            <tr>
+                                <td data-i18n-content="popup_basedOn">免费访问：<a target="_blank" href="https://www.google.com.hk">谷歌搜索</a>，<a target="_blank" href="https://mail.google.com/mail/">Gmail邮箱</a>，<a target="_blank" href="https://chrome.google.com/webstore/category/extensions?hl=zh-CN">Chrome商店</a></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <div id="onStatus" style="display: none">
+                    <span>状态： 已激活   <br>如果还不能访问，可以重启浏览器，重新选择代理</span>
+                </div>
+                <div id="offStatus" style="display: none">
+                    <span id="tips"></span>
+                </div>
+
+                <span>
+                    <e href="" id="openMainWebsite" data-i18n-content="popup_switchyWebPage">交流QQ群：176080917</e>
+                </span>
+                <br/>
+                <!--img src="images/web.png" valign="middle"/>
+                <a href="" id="openPlusWebsite" data-i18n-content="popup_switchyPlusWebPage">SwitchyPlus web page</a><br/>
+                <span>
+                    <img src="images/web.png" valign="middle"/>
+                    <a href="" id="openSupportWebsite" data-i18n-content="popup_supportAndBugReports">Support &amp; Bug reports</a>
+                </span-->
+                <br/>
+            </div>
+            <div class="footer">
+                <div class="popup_copyright">
+                    &copy; 2015 <a target="_blank" href="http://www.ggfwzs.com/">谷歌访问助手</a>
+                </div>
+                <a id="settings" href="#"></a>
+            </div>
+        </div>
+        <script src="/theme/popup.js"></script>
+    </body>
+</html>
