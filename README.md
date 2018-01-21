@@ -5,5 +5,7 @@
 **本软件已破解，可永久免费试用！**
 
 ## 安装说明
-1. 前往Release区下载crx文件
+1. 前往[Release][1]区下载crx文件
 2. 将crx文件拖动到Chrome浏览器即可安装
+
+[1]: https://github.com/hortian/google_access_helper/releases
