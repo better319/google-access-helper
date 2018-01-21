@@ -1,19 +1,20 @@
 <p align="center"><img width="15%" src="icons/icon-128.png" /></p>
 <h1 align="center">谷歌访问助手</h1>
-<p align="center"><table>
-  <tr align="center">
+
+<table>
+  <tr>
     <td align="center"><img src="theme/img/google.png" /></td>
     <td align="center"><img src="theme/img/chrome.png" /></td>
     <td align="center"><img src="theme/img/gmail.png" /></td>
     <td align="center"><img src="theme/img/googleplus.png" /></td>
   </tr>
-  <tr align="center">
+  <tr>
     <td align="center">Google搜索</td>
     <td align="center">Chrome商店</td>
     <td align="center">Gmail邮箱</td>
     <td align="center">Google+</td>
   </tr>
-</table></p>
+</table>
 
 最简单易用的谷歌访问助手,为chrome扩展用户量身打造。可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
 
