@@ -5,7 +5,9 @@
 **本软件已破解，可永久免费试用！**
 
 ## 安装说明
-1. 前往[Release][1]区下载crx文件
-2. 将crx文件拖动到Chrome浏览器即可安装
+1. 克隆本目录到本地或下载[master.zip][1]后解压
+2. 打开Chrome扩展程序管理器 ```chrome://extensions```
+3. 勾选“开发者模式”
+4. 点击“加载已解压的扩展程序”，选择本扩展所在目录
 
-[1]: https://github.com/hortian/google_access_helper/releases
+[1]: https://github.com/hortian/google_access_helper/archive/master.zip
