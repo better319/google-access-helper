@@ -27,6 +27,6 @@
 3. 勾选“开发者模式”
 4. 点击“加载已解压的扩展程序”，选择本扩展所在目录
 
-**注：** 本插件只能采用开发者模式运行，因为Chrome会自动检测当前插件是否存在于Chrome应用商店，若不存在会自动卸载该插件。本人暂未注册谷歌开发者账号，因此未上传至Chrome应用商店。
+**注：** 本插件只能采用开发者模式运行，因为新版本Chrome已不支持安装非Chrome应用商店的应用。
 
 [1]: https://github.com/hortian/google-access-helper/archive/master.zip
