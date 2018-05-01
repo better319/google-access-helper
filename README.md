@@ -29,4 +29,4 @@
 
 **注：** 本插件只能采用开发者模式运行，因为新版本Chrome已不支持安装非Chrome应用商店的应用。
 
-[1]: https://github.com/hortian/google-access-helper/archive/master.zip
+[1]: https://github.com/haotian-wang/google-access-helper/archive/master.zip
