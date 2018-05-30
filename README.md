@@ -3,7 +3,7 @@
 
 最简单易用的谷歌访问助手,为chrome扩展用户量身打造。可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="theme/img/google.png" /></td>
     <td align="center"><img src="theme/img/chrome.png" /></td>
