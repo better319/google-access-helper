@@ -1,30 +1,32 @@
 {
    "background": {
-      "scripts": ["lib/sea.js","bg.js" ]
+      "scripts": [ "lib/sea.js", "bg.js" ]
    },
    "browser_action": {
       "default_icon": "icons/icon.png",
       "default_popup": "popup.html",
       "default_title": "zh_CN"
    },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "straightGoogle.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com; object-src 'self'",
    "default_locale": "zh_CN",
    "description": "最简单易用的谷歌访问助手,为chrome扩展用户量身打造。可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。",
    "icons": {
       "128": "icons/icon-128.png",
       "16": "icons/icon.png"
    },
-   "options_page": "options.html",
-   "content_scripts": [ {
-      "all_frames": false,
-      "js": ["straightGoogle.js"],
-      "matches": [ "http://*/*", "https://*/*" ],
-      "run_at": "document_end"
-   }],
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApypqVqhTtfUPmLzmOsgd10dUTKXBZgTpIfAhM2haJ+2Ydaj4EM8bv+oqMbK6iaVoLmcJrLmvpWV/ZaspQGSo90e+EBxsOxZ91AAMaBjFJ7bfynE3vf4cxHTLIOM0hYqrBdkFlfCvSaqPFbt/RMfR8vaCbI8CjvdOaPPbZLlly2j5eWrUsuIQUDwzAIEWzP0PF8T+AL+IdPbraSJlJpb0rhqgLe99su5KST5vzkw10verAj1/iYEYj+NUBT1HqtfM+kXR4qG/SLkolt8DY/js/o/j2MVBx1qdzBJSfhiO6kvB5GSECO2+Za8jrMC/hcRpmmGiFU6Nq2sUhj0XkXVIlwIDAQAB",
    "manifest_version": 2,
    "minimum_chrome_version": "18.0.0",
    "name": "谷歌访问助手",
-   "permissions": [ "proxy", "tabs", "contextMenus", "webRequest", "webRequestBlocking", "webNavigation", "unlimitedStorage", "notifications","\u003Call_urls\u003E", "http://*/*", "https://*/*", "ftp://*/*" ],
-   "web_accessible_resources": [ "first.html" ],
-   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
-   "version": "2.2.2"
+   "options_page": "options.html",
+   "permissions": [ "proxy", "tabs", "contextMenus", "webRequest", "webRequestBlocking", "webNavigation", "unlimitedStorage", "notifications", "\u003Call_urls>", "http://*/*", "https://*/*", "ftp://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.3.0",
+   "web_accessible_resources": [ "first.html" ]
 }

@@ -12,304 +12,304 @@
       "message": "left"
    },
    "manifest_appDescription": {
-      "message": "\u8F7B\u677E\u5FEB\u6377\u5730\u7BA1\u7406\u548C\u5207\u6362\u591A\u4E2A\u4EE3\u7406\u8BBE\u7F6E\u3002\u57FA\u4E8E \"Proxy Switchy!\" \u548C \"SwitchyPlus\" \u5F00\u53D1\u3002"
+      "message": "轻松快捷地管理和切换多个代理设置。基于 \"Proxy Switchy!\" 和 \"SwitchyPlus\" 开发。"
    },
    "manifest_appName": {
       "message": "谷歌访问助手"
    },
    "manifest_iconTitle": {
-      "message": "[\u8F7D\u5165\u4E2D\u2026\u2026]"
+      "message": "[载入中……]"
    },
    "message_SwitchRulesDisabled": {
-      "message": "\u60A8\u5FC5\u987B\u5148\u542F\u52A8\u81EA\u52A8\u5207\u6362\u89C4\u5219!"
+      "message": "您必须先启动自动切换规则!"
    },
    "message_apply2All": {
-      "message": "\u60A8\u786E\u5B9A\u5C06\u8FD9\u4E2A\u60C5\u666F\u6A21\u5F0F\u5E94\u7528\u5230\u6240\u6709\u89C4\u5219\u5417\uFF1F\n\n\u9009\u4E2D\u7684\u60C5\u666F\u6A21\u5F0F: ($1)"
+      "message": "您确定将这个情景模式应用到所有规则吗？\n\n选中的情景模式: ($1)"
    },
    "message_cannotReadOptionsBackup": {
-      "message": "\u8BFB\u53D6\u5907\u4EFD\u6587\u4EF6\u5931\u8D25!"
+      "message": "读取备份文件失败!"
    },
    "message_cannotRestoreOptionsBackup": {
-      "message": "\u65E0\u6CD5\u4ECE\u5907\u4EFD\u6587\u4EF6\u6062\u590D\r\n!\n\n\u5907\u4EFD\u6587\u4EF6\u53EF\u80FD\u5DF2\u635F\u574F\u3002"
+      "message": "无法从备份文件恢复\r\n!\n\n备份文件可能已损坏。"
    },
    "message_cannotSaveFile": {
-      "message": "\u4FDD\u5B58\u5907\u4EFD\u6587\u4EF6\u5931\u8D25!"
+      "message": "保存备份文件失败!"
    },
    "message_deleteSelectedProfile": {
-      "message": "\u786E\u8BA4\u5220\u9664\u9009\u4E2D\u7684\u60C5\u666F\u6A21\u5F0F\u5417\uFF1F\n\n\u9009\u4E2D\u7684\u60C5\u666F\u6A21\u5F0F: ($1)"
+      "message": "确认删除选中的情景模式吗？\n\n选中的情景模式: ($1)"
    },
    "message_deleteSelectedRule": {
-      "message": "\u786E\u8BA4\u5220\u9664\u9009\u4E2D\u7684\u89C4\u5219\u5417\uFF1F\n\n\u9009\u4E2D\u89C4\u5219: ($1)"
+      "message": "确认删除选中的规则吗？\n\n选中规则: ($1)"
    },
    "message_errorDownloadingRuleList": {
-      "message": "\u66F4\u65B0\u5728\u7EBF\u5217\u8868\u5931\u8D25\uFF01"
+      "message": "更新在线列表失败！"
    },
    "message_firstTimeWelcome": {
-      "message": "\u6B22\u8FCE\u9996\u6B21\u4F7F\u7528!\u003Cbr\u003E\r\n\u8BF7\u8BBE\u7F6E\u4E0B\u9762\u76F8\u5173\u9009\u9879\uFF0C\u7136\u540E\u4FDD\u5B58\u5373\u53EF\u3002\u5982\u679C\u8BBE\u7F6E\u51FA\u73B0\u95EE\u9898\u60A8\u53EF\u4EE5\u8BBF\u95EE http://www.ggfwzs.com \u67E5\u770B\u76F8\u5173\u8BF4\u660E\u3002"
+      "message": "欢迎首次使用!\u003Cbr>\r\n请设置下面相关选项，然后保存即可。如果设置出现问题您可以访问 http://www.ggfwzs.com 查看相关说明。"
    },
    "message_optionsSaved": {
-      "message": "\u8BBE\u7F6E\u5DF2\u4FDD\u5B58\u3002"
+      "message": "设置已保存。"
    },
    "message_profileDeleted": {
-      "message": "\u60C5\u666F\u6A21\u5F0F\u5DF2\u5220\u9664\u3002"
+      "message": "情景模式已删除。"
    },
    "message_restoreOptionsBackup": {
-      "message": "\u786E\u8BA4\u6062\u590D\u6062\u590D\u5907\u4EFD\u5417\uFF1F\n\n\u73B0\u6709\u7684谷歌访问助手\u914D\u7F6E\u5C06\u4F1A\u88AB\u8986\u76D6\u3002"
+      "message": "确认恢复恢复备份吗？\n\n现有的谷歌访问助手配置将会被覆盖。"
    },
    "message_ruleDeleted": {
-      "message": "\u89C4\u5219\u5DF2\u5220\u9664\u3002"
+      "message": "规则已删除。"
    },
    "message_ruleListUpdated": {
-      "message": "\u66F4\u65B0\u5728\u7EBF\u5217\u8868\u6210\u529F\uFF01"
+      "message": "更新在线列表成功！"
    },
    "message_rulesFirstTimeWelcome": {
-      "message": "\u5982\u4F55\u4F7F\u7528\u8BF7\u67E5\u770B谷歌访问助手\u9879\u76EE\u4E3B\u9875\u3002http://www.ggfwzs.com"
+      "message": "如何使用请查看谷歌访问助手项目主页。http://www.ggfwzs.com"
    },
    "message_saveChangedValues": {
-      "message": "\u4FDD\u5B58\u66F4\u6539?"
+      "message": "保存更改?"
    },
    "message_saveOptions": {
-      "message": "\u73B0\u5728\u4FDD\u5B58\u60A8\u7684\u8BBE\u7F6E\u5417\uFF1F"
+      "message": "现在保存您的设置吗？"
    },
    "message_selectBackupFile": {
-      "message": "\u9009\u62E9\u5907\u4EFD\u6587\u4EF6\u7684\u8DEF\u5F84\u3002"
+      "message": "选择备份文件的路径。"
    },
    "message_successRestoreOptionsBackup": {
-      "message": "\u8BBE\u7F6E\u5BFC\u5165\u6210\u529F\u3002"
+      "message": "设置导入成功。"
    },
    "options_12Hours": {
-      "message": "12 \u5C0F\u65F6"
+      "message": "12 小时"
    },
    "options_15Minutes": {
-      "message": "15 \u5206\u949F"
+      "message": "15 分钟"
    },
    "options_1Hour": {
-      "message": "1 \u5C0F\u65F6"
+      "message": "1 小时"
    },
    "options_30Minutes": {
-      "message": "30 \u5206\u949F"
+      "message": "30 分钟"
    },
    "options_3Hours": {
-      "message": "3 \u5C0F\u65F6"
+      "message": "3 小时"
    },
    "options_45Minutes": {
-      "message": "45 \u5206\u949F"
+      "message": "45 分钟"
    },
    "options_6Hours": {
-      "message": "6 \u5C0F\u65F6"
+      "message": "6 小时"
    },
    "options_autoConfig": {
-      "message": "\u81EA\u52A8\u914D\u7F6E"
+      "message": "自动配置"
    },
    "options_autoConfigUrl": {
-      "message": "\u81EA\u52A8\u914D\u7F6E\u7684URL"
+      "message": "自动配置的URL"
    },
    "options_autoProxyCompatible": {
-      "message": "AutoProxy \u517C\u5BB9\u5217\u8868"
+      "message": "AutoProxy 兼容列表"
    },
    "options_autoProxyCompatible_help": {
-      "message": "\u5982\u679C\u662FAutoProxy\u5217\u8868\u89C4\u5219(\u5982gfwlist),\u8BF7\u9009\u4E2D\u6B64\u9009\u9879\u3002"
+      "message": "如果是AutoProxy列表规则(如gfwlist),请选中此选项。"
    },
    "options_clickToEdit": {
-      "message": "\u70B9\u51FB\u7F16\u8F91"
+      "message": "点击编辑"
    },
    "options_close": {
-      "message": "\u5173\u95ED"
+      "message": "关闭"
    },
    "options_confirmDeletion": {
-      "message": "\u5220\u9664\u60C5\u666F\u6A21\u5F0F\u6216\u89C4\u5219\u65F6\u9700\u8981\u786E\u8BA4"
+      "message": "删除情景模式或规则时需要确认"
    },
    "options_confirmDeletion_help": {
-      "message": "\u5982\u679C\u9009\u4E2D\u6B64\u9009\u9879\uFF0C\u5728\u60A8\u8981\u5220\u9664\u60C5\u666F\u6A21\u5F0F\u6216\u89C4\u5219\u65F6\uFF0C 谷歌访问助手 \u4F1A\u8BE2\u95EE\u60A8\u662F\u5426\u786E\u5B9A\u3002"
+      "message": "如果选中此选项，在您要删除情景模式或规则时， 谷歌访问助手 会询问您是否确定。"
    },
    "options_cycledProfiles": {
-      "message": "\u5FAA\u73AF\u5207\u6362\u4EE5\u4E0B\u60C5\u666F\u6A21\u5F0F: "
+      "message": "循环切换以下情景模式: "
    },
    "options_defaultRule": {
-      "message": "\u9ED8\u8BA4\u89C4\u5219"
+      "message": "默认规则"
    },
    "options_defaultRuleUrlPattern": {
       "message": ""
    },
    "options_defaultRule_help": {
-      "message": "\u003Cp\u003E\u5982\u679C\u6CA1\u6709\u5176\u4ED6\u89C4\u5219\u5339\u914D,\u6B64\u89C4\u5219\u5C06\u88AB\u5E94\u7528\u003C/p\u003E\r\n\u003Cp\u003E\u003Cstrong\u003E\u6CE8\u610F:\u003C/strong\u003E \u6B64\u89C4\u5219\u4E0D\u80FD\u88AB\u5220\u9664\u3002\u003C/p\u003E"
+      "message": "\u003Cp>如果没有其他规则匹配,此规则将被应用\u003C/p>\r\n\u003Cp>\u003Cstrong>注意:\u003C/strong> 此规则不能被删除。\u003C/p>"
    },
    "options_deleteProfile": {
-      "message": "\u5220\u9664\u60C5\u666F\u6A21\u5F0F"
+      "message": "删除情景模式"
    },
    "options_deleteRule": {
-      "message": "\u5220\u9664\u89C4\u5219"
+      "message": "删除规则"
    },
    "options_everyday": {
-      "message": "\u6BCF\u5929"
+      "message": "每天"
    },
    "options_exportPacFile": {
-      "message": "\u5BFC\u51FAPAC\u6587\u4EF6"
+      "message": "导出PAC文件"
    },
    "options_exportPacFile_help": {
-      "message": " \u5BFC\u51FAPAC\u6587\u4EF6,\u4EE5\u4FBF\u5728\u5176\u5B83\u6D4F\u89C8\u5668\u4F7F\u7528\u3002 "
+      "message": " 导出PAC文件,以便在其它浏览器使用。 "
    },
    "options_exportRuleList": {
-      "message": "\u5BFC\u51FA\u89C4\u5219\u5217\u8868"
+      "message": "导出规则列表"
    },
    "options_exportRuleList_help": {
-      "message": " \u5BFC\u51FA\u89C4\u5219\u6587\u4EF6\uFF0C\u4EE5\u4FBF\u4E0E\u670B\u53CB\u5171\u4EAB\u3002 "
+      "message": " 导出规则文件，以便与朋友共享。 "
    },
    "options_ftpProxy": {
-      "message": "FTP \u4EE3\u7406"
+      "message": "FTP 代理"
    },
    "options_headerTitle": {
-      "message": "谷歌访问助手 \u9009\u9879"
+      "message": "谷歌访问助手 选项"
    },
    "options_httpProxy": {
-      "message": "HTTP \u4EE3\u7406"
+      "message": "HTTP 代理"
    },
    "options_httpsProxy": {
-      "message": "HTTPS \u4EE3\u7406"
+      "message": "HTTPS 代理"
    },
    "options_importPAC": {
-      "message": "\u5BFC\u5165 PAC \u6587\u4EF6"
+      "message": "导入 PAC 文件"
    },
    "options_lastSelectedProfile": {
-      "message": "(\u4E0A\u6B21\u4F7F\u7528\u7684\u60C5\u666F\u6A21\u5F0F)"
+      "message": "(上次使用的情景模式)"
    },
    "options_lastSuccessfulUpdate": {
-      "message": "\u4E0A\u6B21\u6210\u529F\u66F4\u65B0: "
+      "message": "上次成功更新: "
    },
    "options_makeBackup": {
-      "message": "\u751F\u6210\u5907\u4EFD\u6587\u4EF6"
+      "message": "生成备份文件"
    },
    "options_makeBackup_help": {
-      "message": " \u5907\u4EFD\u60A8\u7684\u6240\u6709\u8BBE\u7F6E\u3002 "
+      "message": " 备份您的所有设置。 "
    },
    "options_manualConfig": {
-      "message": "\u624B\u52A8\u914D\u7F6E"
+      "message": "手动配置"
    },
    "options_miscOptions": {
-      "message": "\u5176\u4ED6\u9009\u9879"
+      "message": "其他选项"
    },
    "options_monitorProxyChanges": {
-      "message": "\u76D1\u63A7\u4EE3\u7406\u53D8\u5316"
+      "message": "监控代理变化"
    },
    "options_monitorProxyChanges_help": {
-      "message": "\u5F53\u4EE3\u7406\u8BBE\u7F6E\u53D8\u5316\u65F6\uFF0C 谷歌访问助手 \u4F1A\u8C03\u6574\u56FE\u6807\u6765\u53CD\u6620\u53D8\u5316\u3002"
+      "message": "当代理设置变化时， 谷歌访问助手 会调整图标来反映变化。"
    },
    "options_moreInfo": {
-      "message": "\u66F4\u591A\u4FE1\u606F"
+      "message": "更多信息"
    },
    "options_newProfile": {
-      "message": "\u65B0\u5EFA\u60C5\u666F\u6A21\u5F0F"
+      "message": "新建情景模式"
    },
    "options_newRule": {
-      "message": "\u65B0\u5EFA\u89C4\u5219"
+      "message": "新建规则"
    },
    "options_noProxyFor": {
-      "message": "\u4E0D\u4EE3\u7406\u7684\u5730\u5740:"
+      "message": "不代理的地址:"
    },
    "options_noProxyFor_help": {
-      "message": "\u4F7F\u7528\u5206\u53F7 ( ; ) \u5206\u9694\u3002"
+      "message": "使用分号 ( ; ) 分隔。"
    },
    "options_notCycledProfiles": {
-      "message": "\u4E0D\u5FAA\u73AF\u5207\u6362\u7684\u60C5\u666F\u6A21\u5F0F (\u62D6\u52A8\u5230\u4E0A\u9762\u7684\u6846\u4E2D\u542F\u7528\u5207\u6362):"
+      "message": "不循环切换的情景模式 (拖动到上面的框中启用切换):"
    },
    "options_patternType": {
-      "message": "\u6A21\u5F0F\u5339\u914D"
+      "message": "模式匹配"
    },
    "options_patternTypeRegExp": {
-      "message": "\u6B63\u5219\u8868\u8FBE\u5F0F"
+      "message": "正则表达式"
    },
    "options_patternTypeWildcard": {
-      "message": "\u901A\u914D\u7B26"
+      "message": "通配符"
    },
    "options_patternType_help": {
-      "message": "\u003Cp\u003E\u8BE5\u7C7B\u578B\u7684\u5339\u914D\u6A21\u5F0F.\u003C/p\u003E\u003Chr /\u003E\r\n\u003Ctable\u003E\r\n\t\u003Ctr\u003E\r\n\t\t\u003Ctd\u003E\u003Cem\u003E\u901A\u914D\u7B26\u003C/em\u003E\u003C/td\u003E\r\n\t\t\u003Ctd\u003E\u4F7F\u7528*\u6765\u5339\u914D\u4EFB\u610F\u6570\u91CF\u7684\u5B57\u7B26\u3002\u003C/td\u003E\r\n\t\u003C/tr\u003E\r\n\t\u003Ctr\u003E\r\n\t\t\u003Ctd\u003E\u003Cem\u003E\u6B63\u5219\u8868\u8FBE\u5F0F\u003C/em\u003E\u003C/td\u003E\r\n\t\t\u003Ctd\u003E\u4F7F\u7528\u6B63\u5219\u8868\u8FBE\u5F0F\u5339\u914D URL\u3002\u003C/td\u003E\r\n\t\u003C/tr\u003E\r\n\u003C/table\u003E"
+      "message": "\u003Cp>该类型的匹配模式.\u003C/p>\u003Chr />\r\n\u003Ctable>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Cem>通配符\u003C/em>\u003C/td>\r\n\t\t\u003Ctd>使用*来匹配任意数量的字符。\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Cem>正则表达式\u003C/em>\u003C/td>\r\n\t\t\u003Ctd>使用正则表达式匹配 URL。\u003C/td>\r\n\t\u003C/tr>\r\n\u003C/table>"
    },
    "options_profileColor": {
-      "message": "\u60C5\u666F\u6A21\u5F0F\u989C\u8272"
+      "message": "情景模式颜色"
    },
    "options_profileDetails": {
-      "message": "\u8BE6\u7EC6\u914D\u7F6E"
+      "message": "详细配置"
    },
    "options_profileName": {
-      "message": "\u60C5\u666F\u6A21\u5F0F\u540D\u79F0"
+      "message": "情景模式名称"
    },
    "options_proxyPort": {
-      "message": "\u7AEF\u53E3"
+      "message": "端口"
    },
    "options_proxyProfile": {
-      "message": "\u60C5\u666F\u6A21\u5F0F"
+      "message": "情景模式"
    },
    "options_proxyProfile_help": {
-      "message": "\u5F53\u89C4\u5219\u5339\u914D\u65F6\uFF0C\u4F7F\u7528\u6B64\u60C5\u666F\u6A21\u5F0F"
+      "message": "当规则匹配时，使用此情景模式"
    },
    "options_proxyProfiles": {
-      "message": "\u6240\u6709\u60C5\u666F\u6A21\u5F0F"
+      "message": "所有情景模式"
    },
    "options_quickSwitch": {
-      "message": "\u5FEB\u901F\u5207\u6362"
+      "message": "快速切换"
    },
    "options_quickSwitch_cycle_help": {
-      "message": "\u5F53\u60A8\u70B9\u51FB\u5DE5\u5177\u680F\u56FE\u6807\u65F6, 谷歌访问助手\u5C06\u6309\u5982\u4E0B\u987A\u5E8F\u5207\u6362\u4EE3\u7406\u914D\u7F6E\u3002"
+      "message": "当您点击工具栏图标时, 谷歌访问助手将按如下顺序切换代理配置。"
    },
    "options_quickSwitch_help": {
-      "message": "\u003Cp\u003E\u53EF\u4EE5\u8BA9\u60A8\u4E00\u952E\u5207\u6362\u4EE3\u7406\u914D\u7F6E \n(\u70B9\u51FBSwitchyShap\u56FE\u6807\u5373\u53EF)\u3002\u003C/p\u003E\u003Chr /\u003E\n\u003Cp\u003E\u003Cstrong\u003E\u6CE8\u610F:\u003C/strong\u003E \u542F\u7528\u6B64\u7279\u6027\u540E\uFF0C\u60A8\u65E0\u6CD5\u901A\u8FC7\u5355\u51FB 谷歌访问助手 \u56FE\u6807\u5F39\u51FA\u914D\u7F6E\u83DC\u5355\u3002\u4F60\u9700\u8981\u53F3\u51FB谷歌访问助手\u56FE\u6807\u5E76\u9009\u62E9\"\u9009\u9879\"\u6765\u8FDB\u5165\u914D\u7F6E\u9875\u9762\u3002\u003C/p\u003E"
+      "message": "\u003Cp>可以让您一键切换代理配置 \n(点击SwitchyShap图标即可)。\u003C/p>\u003Chr />\n\u003Cp>\u003Cstrong>注意:\u003C/strong> 启用此特性后，您无法通过单击 谷歌访问助手 图标弹出配置菜单。你需要右击谷歌访问助手图标并选择\"选项\"来进入配置页面。\u003C/p>"
    },
    "options_reapplyLastProfile_help": {
-      "message": "\u5982\u679C\u8FD9\u4E2A\u9009\u9879\u88AB\u9009\u4E2D 谷歌访问助手 \u542F\u52A8\u65F6\u5C06\u5E94\u7528\u7528\u6237\u6700\u540E\u9009\u62E9\u7684\u60C5\u666F\u6A21\u5F0F"
+      "message": "如果这个选项被选中 谷歌访问助手 启动时将应用用户最后选择的情景模式"
    },
    "options_refreshTab": {
-      "message": "\u5F53\u66F4\u6539\u60C5\u666F\u6A21\u5F0F\u65F6\u5237\u65B0\u5F53\u524D\u6807\u7B7E"
+      "message": "当更改情景模式时刷新当前标签"
    },
    "options_refreshTab_help": {
-      "message": "\u5F53\u5728\u5F39\u51FA\u83DC\u5355\u4E2D\u6216\u5FEB\u901F\u5207\u6362\u4E2D\u66F4\u6539\u60C5\u666F\u6A21\u5F0F\u65F6\uFF0C\u5237\u65B0\u5F53\u524D\u6807\u7B7E\u9875\u3002"
+      "message": "当在弹出菜单中或快速切换中更改情景模式时，刷新当前标签页。"
    },
    "options_reloadEvery": {
-      "message": "\u81EA\u52A8\u66F4\u65B0\u95F4\u9694"
+      "message": "自动更新间隔"
    },
    "options_reloadEvery_help": {
-      "message": "\u81EA\u52A8\u66F4\u65B0\u89C4\u5219\u5217\u8868\u7684\u9891\u7387\u3002"
+      "message": "自动更新规则列表的频率。"
    },
    "options_resetOptions": {
-      "message": "\u91CD\u7F6E\u9009\u9879"
+      "message": "重置选项"
    },
    "options_restoreBackup": {
-      "message": "\u5728\u7EBF\u6062\u590D\u5907\u4EFD"
+      "message": "在线恢复备份"
    },
    "options_restoreBackup_help": {
-      "message": "\u5907\u4EFD\u6587\u4EF6\u5730\u5740 (e.g. 'http://iewb.net/switchy.bak')"
+      "message": "备份文件地址 (e.g. 'http://iewb.net/switchy.bak')"
    },
    "options_restoreLocal": {
-      "message": "\u4ECE\u6587\u4EF6\u6062\u590D"
+      "message": "从文件恢复"
    },
    "options_restoreLocal_help": {
-      "message": "\u4ECE\u672C\u5730\u5907\u4EFD\u6587\u4EF6\u4F9B\u6062\u590D谷歌访问助手\u914D\u7F6E\u3002"
+      "message": "从本地备份文件供恢复谷歌访问助手配置。"
    },
    "options_revertProxyChanges": {
-      "message": "\u64A4\u6D88\u5176\u4ED6\u6269\u5C55\u5BF9\u4EE3\u7406\u7684\u66F4\u6539\u3002"
+      "message": "撤消其他扩展对代理的更改。"
    },
    "options_revertProxyChanges_help": {
-      "message": "\u6062\u590D\u88AB\u5176\u5B83\u5E94\u7528\u7A0B\u5E8F\u66F4\u6539\u7684\u4EE3\u7406\u8BBE\u7F6E\u3002"
+      "message": "恢复被其它应用程序更改的代理设置。"
    },
    "options_ruleList": {
-      "message": "\u5728\u7EBF\u89C4\u5219\u5217\u8868"
+      "message": "在线规则列表"
    },
    "options_ruleListProxyProfile_help": {
-      "message": "\u5F53\u5728\u7EBF\u89C4\u5219\u5217\u8868\u4E2D\u7684\u4EFB\u4F55\u89C4\u5219\u5339\u914D\u65F6\uFF0C\u4F7F\u7528\u6B64\u60C5\u666F\u6A21\u5F0F\u3002"
+      "message": "当在线规则列表中的任何规则匹配时，使用此情景模式。"
    },
    "options_ruleListUrl": {
-      "message": "\u89C4\u5219\u5217\u8868URL"
+      "message": "规则列表URL"
    },
    "options_ruleListUrl_help": {
-      "message": "\u89C4\u5219\u5217\u8868\u7684\u5730\u5740(\u4E0D\u80FD\u4F7F\u7528\u672C\u5730\u6587\u4EF6)\u3002"
+      "message": "规则列表的地址(不能使用本地文件)。"
    },
    "options_ruleList_help": {
-      "message": "\u5BFC\u5165\u5728\u7EBF\u89C4\u5219\u5217\u8868\u3002"
+      "message": "导入在线规则列表。"
    },
    "options_ruleName": {
-      "message": "\u89C4\u5219\u540D\u79F0"
+      "message": "规则名称"
    },
    "options_save": {
-      "message": "\u4FDD\u5B58"
+      "message": "保存"
    },
    "options_socks4": {
       "message": "SOCKS v4"
@@ -318,132 +318,132 @@
       "message": "SOCKS v5"
    },
    "options_socksHost": {
-      "message": "SOCKS \u4EE3\u7406"
+      "message": "SOCKS 代理"
    },
    "options_startupProfile": {
-      "message": "\u542F\u52A8\u60C5\u666F\u6A21\u5F0F\uFF1A"
+      "message": "启动情景模式："
    },
    "options_startupProfile_help": {
-      "message": "\u6269\u5C55\u542F\u52A8\u65F6\u5E94\u7528\u7684\u60C5\u666F\u6A21\u5F0F\u3002"
+      "message": "扩展启动时应用的情景模式。"
    },
    "options_switchRules": {
-      "message": "\u5207\u6362\u89C4\u5219"
+      "message": "切换规则"
    },
    "options_switchRulesEnable": {
-      "message": "\u542F\u7528\u5207\u6362\u89C4\u5219"
+      "message": "启用切换规则"
    },
    "options_switchRulesEnable_help": {
-      "message": "\u003Cp\u003E\u5207\u6362\u89C4\u5219\u6307\u5B9A\u54EA\u4E2A\u4EE3\u7406\u5E94\u8BE5\u7528\u4E8E\u6BCF\u4E00\u4E2A\u7F51\u5740\u3002\u003C/p\u003E\u003Chr /\u003E\r\n\u003Cp\u003E\u8FD9\u4E2A\u9009\u9879\u88AB\u6FC0\u6D3B\u65F6,\u4F60\u53EF\u4EE5\u5728\u5F39\u51FA\u83DC\u5355\u770B\u5230\u4E24\u4E2A\u9879\u76EE\uFF1A\u003C/p\u003E\r\n\u003Ctable\u003E\r\n\t\u003Ctr\u003E\r\n\t\t\u003Ctd\u003E\u003Cem\u003E\u81EA\u52A8\u6A21\u5F0F\u003C/em\u003E\u003C/td\u003E\r\n\t\t\u003Ctd\u003E\u70B9\u51FB\u8FD9\u4E2A\u9879\u76EE\u5C06\u542F\u52A8\u5F00\u5173\u7684\u89C4\u5219\u3002\u003C/td\u003E\r\n\t\u003C/tr\u003E\r\n\t\u003Ctr\u003E\r\n\t\t\u003Ctd\u003E\u003Cem\u003E\u65B0\u89C4\u5219\u003C/em\u003E\u003C/td\u003E\r\n\t\t\u003Ctd\u003E\u4E3A\u5F53\u524D\u7684\u7F51\u7AD9\u5FEB\u901F\u589E\u52A0\u4E00\u4E2A\u65B0\u7684\u5207\u6362\u89C4\u5219\u3002\u003C/td\u003E\r\n\t\u003C/tr\u003E\r\n\u003C/table\u003E"
+      "message": "\u003Cp>切换规则指定哪个代理应该用于每一个网址。\u003C/p>\u003Chr />\r\n\u003Cp>这个选项被激活时,你可以在弹出菜单看到两个项目：\u003C/p>\r\n\u003Ctable>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Cem>自动模式\u003C/em>\u003C/td>\r\n\t\t\u003Ctd>点击这个项目将启动开关的规则。\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Cem>新规则\u003C/em>\u003C/td>\r\n\t\t\u003Ctd>为当前的网站快速增加一个新的切换规则。\u003C/td>\r\n\t\u003C/tr>\r\n\u003C/table>"
    },
    "options_tabGeneral": {
-      "message": "\u901A\u7528\u8BBE\u7F6E"
+      "message": "通用设置"
    },
    "options_tabImportExport": {
-      "message": "\u5BFC\u5165/\u5BFC\u51FA"
+      "message": "导入/导出"
    },
    "options_tabNetwork": {
-      "message": "\u7F51\u7EDC"
+      "message": "网络"
    },
    "options_tabProxyProfiles": {
-      "message": "\u60C5\u666F\u6A21\u5F0F"
+      "message": "情景模式"
    },
    "options_tabSwitchRules": {
-      "message": "\u5207\u6362\u89C4\u5219"
+      "message": "切换规则"
    },
    "options_untitledProfile": {
-      "message": "[\u672A\u547D\u540D]"
+      "message": "[未命名]"
    },
    "options_updateListNow": {
-      "message": "\u7ACB\u5373\u66F4\u65B0\u5217\u8868"
+      "message": "立即更新列表"
    },
    "options_urlPattern": {
-      "message": "URL \u6A21\u5F0F"
+      "message": "URL 模式"
    },
    "options_urlPattern_help": {
-      "message": "\u003Cp\u003E\u8BE5\u7F51\u9875\u7684URL\u6A21\u5F0F\u3002\u003C/p\u003E\u003Chr /\u003E\r\n\u003Ctable\u003E\r\n\t\u003Ctr\u003E\r\n\t\t\u003Ctd colspan='2'\u003E\u003Cstrong\u003E\u914D\u7F6E\u53C2\u8003\u003C/strong\u003E\u003C/td\u003E\r\n\t\u003C/tr\u003E\r\n\t\u003Ctr\u003E\r\n\t\t\u003Ctd\u003E\u003Cem\u003E\u661F\u53F7 (*) \u003C/em\u003E\u003C/td\u003E\r\n\t\t\u003Ctd\u003E\u4EE3\u8868\u96F6\u4E2A\u6216\u591A\u4E2A\u5B57\u7B26\u3002\u003C/td\u003E\r\n\t\u003C/tr\u003E\r\n\t\u003Ctr\u003E\r\n\t\t\u003Ctd\u003E\u003Cem\u003E\u95EE\u53F7 (?) \u003C/em\u003E\u003C/td\u003E\r\n\t\t\u003Ctd\u003E\u4EE3\u8868\u4E00\u4E2A\u5B57\u7B26\u3002\u003C/td\u003E\r\n\t\u003C/tr\u003E\r\n\t\u003Ctr\u003E\r\n\t\t\u003Ctd colspan='2'\u003E\u003Cbr /\u003E\u003Cstrong\u003E\u8303\u4F8B\u003C/strong\u003E\u003C/td\u003E\r\n\t\u003C/tr\u003E\r\n\t\u003Ctr\u003E\r\n\t\t\u003Ctd\u003E\u003Cem\u003E*://www.google.com/* \u003C/em\u003E\u003C/td\u003E\r\n\t\t\u003Ctd\u003E\u5339\u914D\u6240\u6709\u7F51\u5740(HTTP\u548CHTTPS)\u003C/td\u003E\r\n\t\u003C/tr\u003E\r\n\t\u003Ctr\u003E\r\n\t\t\u003Ctd\u003E\u003Cem\u003Ehttps://*.google.com/foo*bar \u003C/em\u003E\u003C/td\u003E\r\n\t\t\u003Ctd\u003Ehttps\u914D\u7F6E\u8DEF\u5F84\u4E2D\u7684\u4EFB\u4F55\u5B50\u57DF\u540D\u4E0E\u5B50\u76EE\u5F55\u3002\u003C/td\u003E\r\n\t\u003C/tr\u003E\r\n\t\u003Ctr\u003E\r\n\t\t\u003Ctd\u003E\u003Cem\u003Ehttp://example.org/foo/bar.html \u003C/em\u003E\u003C/td\u003E\r\n\t\t\u003Ctd\u003E\u7CBE\u786E\u5339\u914D\u6307\u5B9A\u7684URL\u3002\u003C/td\u003E\r\n\t\u003C/tr\u003E\r\n\u003C/table\u003E"
+      "message": "\u003Cp>该网页的URL模式。\u003C/p>\u003Chr />\r\n\u003Ctable>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd colspan='2'>\u003Cstrong>配置参考\u003C/strong>\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Cem>星号 (*) \u003C/em>\u003C/td>\r\n\t\t\u003Ctd>代表零个或多个字符。\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Cem>问号 (?) \u003C/em>\u003C/td>\r\n\t\t\u003Ctd>代表一个字符。\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd colspan='2'>\u003Cbr />\u003Cstrong>范例\u003C/strong>\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Cem>*://www.google.com/* \u003C/em>\u003C/td>\r\n\t\t\u003Ctd>匹配所有网址(HTTP和HTTPS)\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Cem>https://*.google.com/foo*bar \u003C/em>\u003C/td>\r\n\t\t\u003Ctd>https配置路径中的任何子域名与子目录。\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Cem>http://example.org/foo/bar.html \u003C/em>\u003C/td>\r\n\t\t\u003Ctd>精确匹配指定的URL。\u003C/td>\r\n\t\u003C/tr>\r\n\u003C/table>"
    },
    "options_useSameProxy": {
-      "message": "\u5BF9\u6240\u6709\u534F\u8BAE\u5747\u4F7F\u7528\u76F8\u540C\u7684\u4EE3\u7406\u670D\u52A1\u5668"
+      "message": "对所有协议均使用相同的代理服务器"
    },
    "options_vpnDialupProxy": {
-      "message": "VPN/\u62E8\u53F7\u7F51\u7EDC\u7684\u4EE3\u7406"
+      "message": "VPN/拨号网络的代理"
    },
    "popup_aboutSwitchy": {
-      "message": "\u5173\u4E8E 谷歌访问助手"
+      "message": "关于 谷歌访问助手"
    },
    "popup_add": {
-      "message": "\u6DFB\u52A0"
+      "message": "添加"
    },
    "popup_autoSwitchMode": {
-      "message": "\u81EA\u52A8\u5207\u6362\u6A21\u5F0F"
+      "message": "自动切换模式"
    },
    "popup_autoSwitchMode_help": {
-      "message": "\u4E3A\u6BCF\u4E2A\u7F51\u7AD9\u81EA\u52A8\u9009\u62E9\u5408\u9002\u7684\u60C5\u666F\u6A21\u5F0F\u3002"
+      "message": "为每个网站自动选择合适的情景模式。"
    },
    "popup_basedOn": {
       "message": "免费访问 谷歌chrome商店，谷歌搜索，gmail邮箱"
    },
    "popup_cancel": {
-      "message": "\u53D6\u6D88"
+      "message": "取消"
    },
    "popup_chromeExtensionGallery": {
-      "message": "\u82F1\u6587\u7248\u672C"
+      "message": "英文版本"
    },
    "popup_copyright": {
       "message": "Copyright &copy; 2014 ggfwzs.com."
    },
    "popup_developedBy": {
-      "message": "\u5F00\u53D1\u4EBA\u5458"
+      "message": "开发人员"
    },
    "popup_duplicateRules": {
-      "message": "* \u5DF2\u7ECF\u5B58\u5728\u6A21\u5F0F\u76F8\u540C\u7684\u89C4\u5219\u4E86\u3002"
+      "message": "* 已经存在模式相同的规则了。"
    },
    "popup_newRule": {
-      "message": "\u65B0\u5EFA\u89C4\u5219"
+      "message": "新建规则"
    },
    "popup_newRule_help": {
-      "message": "\u4E3A\u5F53\u524D\u7F51\u7AD9\u5FEB\u901F\u6DFB\u52A0\u65B0\u89C4\u5219\u3002"
+      "message": "为当前网站快速添加新规则。"
    },
    "popup_newTempRule2_help": {
-      "message": "\u5BF9\u5F53\u524D\u57DF\u540D\u4E34\u65F6\u5E94\u7528\u7684\u4EE3\u7406\u60C5\u666F\u6A21\u5F0F\u3002"
+      "message": "对当前域名临时应用的代理情景模式。"
    },
    "popup_newTempRule_help": {
-      "message": "\u4E3A\u5F53\u524D\u57DF\u540D\u6DFB\u52A0\u4E00\u6761\u4E34\u65F6\u89C4\u5219\u3002"
+      "message": "为当前域名添加一条临时规则。"
    },
    "popup_options": {
-      "message": "\u9009\u9879"
+      "message": "选项"
    },
    "popup_or": {
       "message": "or"
    },
    "popup_supportAndBugReports": {
-      "message": "\u6280\u672F\u652F\u6301 &amp; Bug\u53CD\u9988"
+      "message": "技术支持 &amp; Bug反馈"
    },
    "popup_switchyPlusWebPage": {
-      "message": "SwitchyPlus \u4E3B\u9875"
+      "message": "SwitchyPlus 主页"
    },
    "popup_switchyWebPage": {
       "message": "谷歌访问助手 已激活"
    },
    "popup_version": {
-      "message": "\u7248\u672C"
+      "message": "版本"
    },
    "proxy_autoSwitch": {
-      "message": "\u81EA\u52A8\u5207\u6362"
+      "message": "自动切换"
    },
    "proxy_autoSwitchIconTitle": {
-      "message": "\u81EA\u52A8\u5207\u6362\u6A21\u5F0F\n\u672C\u9875\u60C5\u666F\u6A21\u5F0F: $1"
+      "message": "自动切换模式\n本页情景模式: $1"
    },
    "proxy_directConnection": {
       "message": "关闭翻墙"
    },
    "proxy_directConnection_help": {
-      "message": "\u7981\u7528\u4EE3\u7406"
+      "message": "禁用代理"
    },
    "proxy_systemProxy": {
-      "message": "\u4F7F\u7528\u7CFB\u7EDF\u4EE3\u7406\u8BBE\u7F6E"
+      "message": "使用系统代理设置"
    },
    "proxy_systemProxy_help": {
-      "message": "\u4F7F\u7528\u7CFB\u7EDF\u4EE3\u7406\u8BBE\u7F6E (\u9700\u8981\u91CD\u542F)"
+      "message": "使用系统代理设置 (需要重启)"
    }
 }
